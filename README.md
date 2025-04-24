@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨I'm on a journey to advance my coding skills; I have varied interests but I am focused on understanding the intersection between computer science and the human condition. With a background in art psychotherapy, I am passionate about exploring how technology can illuminate and enhance human experience.<br>📚 Currently strengthening my coding proficiency in Java, JavaScript and Ionic.<br>🎯 Goals: exploring the convergence of computer science principles with psychological modalities. <br>I want to create tools or applications that facilitate a deeper understanding of the human condition through technology yielding beneficial results in areas like mental health.<br>🎲 Fun facts: I love horse-riding, I meditate daily and once did a 20 minute plank.</p>
+<p align="left">✨I'm on a journey to advance my coding skills; I have varied interests but I am focused on understanding the intersection between computer science and the human condition. With a background in art psychotherapy, I am passionate about exploring how technology can illuminate and enhance human experience.<br>📚 Currently strengthening my coding proficiency in Java, and working on both frontend and backend technologies.<br>🎯 Goals: exploring the convergence of computer science principles with psychological modalities. <br>I want to create tools or applications that facilitate a deeper understanding of the human condition through technology yielding beneficial results in areas including mental health.<br>🎲 Fun facts: I love horse-riding, I meditate daily and once did a 20 minute plank.</p>
 
 ###
 
